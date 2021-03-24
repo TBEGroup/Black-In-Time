@@ -17,7 +17,7 @@ Black In Time is a book app that feautures African American authors. Black In Ti
 - **Category:Black In Time
 - **Mobile:iOS
 - **Story:
-- **Market: HBCU students and alumni
+- **Market: Anyone interested in African American studies
 - **Habit: 
 - **Scope: 
 
@@ -30,9 +30,9 @@ Black In Time is a book app that feautures African American authors. Black In Ti
 * User can login to app
 * User can logout of app
 * User can remain signed into app
-* User can post photos
-* User can view othe users photos
-* User can comment on other users posts
+* User can view books
+* User can search
+* User can create and join groups
 * User can scroll
 * Sign Up button
 * Pull to refresh
