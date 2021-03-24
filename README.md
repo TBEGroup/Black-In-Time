@@ -11,10 +11,10 @@
 
 ## Overview
 ### Description
-Hillstagram is a HBCU inclusive social media app. Hillstagram will allow users to interact with other students from different Historically Black Colleges and Universities. Hillstagram will be similar to the Instagram platform, allowing users to post pictures with captions, like users photos and comment. 
+Black In Time is a book app that feautures African American authors. Black In Time will allow users to browse different stories, aritcles, and books by black creators. 
 
 ### App Evaluation
-- **Category:Hilstagram
+- **Category:Black In Time
 - **Mobile:iOS
 - **Story:
 - **Market: HBCU students and alumni
