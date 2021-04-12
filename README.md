@@ -1,9 +1,5 @@
 # Black-In-Time
 
-===
-
-# Black-In-Time
-
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
@@ -81,5 +77,11 @@ Black In Time is a book app that feautures African American authors. Black In Ti
 
 ## Wireframes
 
-<https://ibb.co/WfzYv1H>
+<a href="https://ibb.co/VqRZtCX"><img src="https://i.ibb.co/VqRZtCX/IMG-7868.jpg" alt="IMG-7868" border="0"></a>
+
+## Schema
+
+### Models
+
+#### Post
 
